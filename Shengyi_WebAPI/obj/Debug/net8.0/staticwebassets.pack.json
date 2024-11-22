@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\WebAPI\\Shengyi_WebAPI\\Shengyi_WebAPI\\wwwroot\\uploads\\084f02f4-d7fb-415e-a4b0-8c6b199775c7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\084f02f4-d7fb-415e-a4b0-8c6b199775c7.pdf"
+    },
+    {
+      "Id": "D:\\Project\\WebAPI\\Shengyi_WebAPI\\Shengyi_WebAPI\\wwwroot\\uploads\\6030415c-7785-4a05-9ec1-c3ad1371a74f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6030415c-7785-4a05-9ec1-c3ad1371a74f.pdf"
+    },
+    {
+      "Id": "D:\\Project\\WebAPI\\Shengyi_WebAPI\\Shengyi_WebAPI\\wwwroot\\uploads\\9b4d39d1-20ab-4a1e-a1ac-46ebff547fd1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9b4d39d1-20ab-4a1e-a1ac-46ebff547fd1.pdf"
+    },
+    {
+      "Id": "D:\\Project\\WebAPI\\Shengyi_WebAPI\\Shengyi_WebAPI\\wwwroot\\uploads\\a22bf002-07f9-473d-87fb-900f1b263a4e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\a22bf002-07f9-473d-87fb-900f1b263a4e.pdf"
+    },
+    {
+      "Id": "D:\\Project\\WebAPI\\Shengyi_WebAPI\\Shengyi_WebAPI\\wwwroot\\uploads\\fc524db5-5014-44f3-9de4-ec6eacaa4412.pdf",
+      "PackagePath": "staticwebassets\\uploads\\fc524db5-5014-44f3-9de4-ec6eacaa4412.pdf"
+    },
+    {
+      "Id": "D:\\Project\\WebAPI\\Shengyi_WebAPI\\Shengyi_WebAPI\\wwwroot\\uploads\\fffb3a9d-d468-4926-92a7-413e5c0ea9f5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\fffb3a9d-d468-4926-92a7-413e5c0ea9f5.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shengyi_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shengyi_WebAPI.props",
+      "PackagePath": "build\\Shengyi_WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shengyi_WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\Shengyi_WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shengyi_WebAPI.props",
+      "PackagePath": "buildTransitive\\Shengyi_WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

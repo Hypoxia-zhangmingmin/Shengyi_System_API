@@ -1,0 +1,6 @@
+@Shengyi_WebAPI_HostAddress = http://localhost:5230
+
+GET {{Shengyi_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
